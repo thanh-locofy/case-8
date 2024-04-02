@@ -14,9 +14,9 @@ body {
   /* Colors */
   --gray-scale-white: #fff;
   --gray-scale-gray-100: #e6e6e6;
-  --gray-scale-gray-600: #666;
   --gren-gray-scale-50: #edf2ee;
   --gray-scale-gray-900: #1a1a1a;
+  --gray-scale-gray-600: #666;
 
   /* Gaps */
   --gap-3xs: 10px;
