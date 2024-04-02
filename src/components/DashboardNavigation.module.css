@@ -30,8 +30,6 @@
 .accountLinks {
   align-self: stretch;
   height: 56px;
-  background-color: var(--gren-gray-scale-50);
-  box-shadow: 3px 0 0#20b526 inset;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -39,7 +37,6 @@
   padding: var(--padding-base) var(--padding-xl);
   box-sizing: border-box;
   gap: var(--gap-3xs);
-  color: var(--gray-scale-gray-900);
 }
 .dashboard2Icon1 {
   height: 24px;
@@ -156,9 +153,12 @@
 .accountLinks5 {
   align-self: stretch;
   height: 56px;
+  background-color: var(--gren-gray-scale-50);
+  box-shadow: 3px 0 0#20b526 inset;
   flex-direction: row;
   padding: var(--padding-base) var(--padding-xl);
   gap: var(--gap-3xs);
+  color: var(--gray-scale-gray-900);
 }
 .dashboardNavigation {
   width: 312px;
